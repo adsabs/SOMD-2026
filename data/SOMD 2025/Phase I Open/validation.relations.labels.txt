@@ -1,0 +1,203 @@
+Version_of	6	4; Developer_of	8	4; Specification_of	10	4; Version_of	15	10
+Developer_of	5	6; Version_of	7	6
+Citation_of	15	14; URL_of	17	14
+Developer_of	6	7; Version_of	9	7
+Version_of	6	5; Developer_of	8	5
+Version_of	16	15; Developer_of	18	15
+Version_of	8	5; Citation_of	10	5
+Version_of	12	10; Developer_of	14	10
+Specification_of	21	12; Developer_of	20	21; Version_of	23	21
+Version_of	29	27; Developer_of	31	27
+Version_of	17	16; Citation_of	18	16
+Version_of	4	3; Version_of	7	6
+Version_of	12	9; Developer_of	8	9; Citation_of	14	9
+Version_of	9	5; Developer_of	30	5
+Version_of	8	4; Developer_of	10	4; Release_of	14	4
+Version_of	9	7; License_of	7	1
+PlugIn_of	1	4; Citation_of	6	4
+Developer_of	3	0
+
+Version_of	7	5; Developer_of	9	5
+Version_of	22	21; Developer_of	26	21; Extension_of	24	21
+Version_of	16	10; Extension_of	12	10
+URL_of	18	7; Citation_of	19	7; Developer_of	23	24; Version_of	25	24; Version_of	27	24; Developer_of	31	32; Version_of	34	32
+Version_of	12	11; Developer_of	14	11; Release_of	28	25; Developer_of	31	25
+Version_of	10	5; Developer_of	12	5
+Version_of	3	2
+Version_of	31	30; Citation_of	32	30; Version_of	39	38; Citation_of	40	38
+Version_of	11	10; Developer_of	13	10
+Version_of	15	14; Developer_of	17	14
+Version_of	6	5; Version_of	9	5
+Developer_of	4	7; URL_of	39	17
+Release_of	7	6; PlugIn_of	6	9
+Version_of	6	5; Citation_of	17	5
+PlugIn_of	13	10
+
+Specification_of	22	15; Developer_of	24	22
+Specification_of	18	10; Version_of	20	18; URL_of	22	18
+Specification_of	13	7; Version_of	18	13; Developer_of	20	13
+Specification_of	10	6; Version_of	11	10; Version_of	14	6; Developer_of	16	6
+Version_of	7	6; Developer_of	9	6; Citation_of	17	6
+License_of	10	0; Version_of	11	10; URL_of	15	0
+Version_of	9	8; Developer_of	12	8
+Version_of	7	5; Developer_of	9	5
+Version_of	25	23; Specification_of	40	23; Version_of	43	40; Developer_of	45	40; Developer_of	28	23
+Developer_of	11	9; PlugIn_of	5	9
+Version_of	36	35; Developer_of	38	35
+PlugIn_of	27	25; PlugIn_of	29	25
+Version_of	3	2; Developer_of	5	2
+URL_of	11	8
+Version_of	7	6; Developer_of	12	6
+Developer_of	11	12; Developer_of	15	12
+
+
+AlternativeName_of	23	3
+URL_of	15	11; URL_of	23	21; URL_of	31	29; URL_of	39	37
+URL_of	21	11
+Version_of	12	9; Developer_of	14	9
+Version_of	36	33; Developer_of	39	33
+Citation_of	6	0; Version_of	24	22
+Version_of	10	7; Developer_of	12	7
+
+Version_of	18	15; Developer_of	20	15; Release_of	25	15
+PlugIn_of	9	11; Version_of	15	9
+Citation_of	45	42; PlugIn_of	11	42; PlugIn_of	34	42; PlugIn_of	22	42
+Citation_of	9	5; Citation_of	14	12; PlugIn_of	5	12
+Version_of	6	5; Developer_of	8	5; URL_of	22	19; URL_of	35	30
+Version_of	5	3; Citation_of	7	3; Version_of	10	9; Citation_of	11	9
+Version_of	24	23; URL_of	26	23
+Version_of	35	34; Developer_of	37	34
+URL_of	9	4
+PlugIn_of	19	17; Citation_of	20	19
+PlugIn_of	24	27; Citation_of	28	27
+Version_of	6	5; Citation_of	7	5
+Version_of	8	6; Developer_of	11	6; Version_of	31	28; Developer_of	33	28
+
+
+Version_of	6	4; URL_of	11	4; License_of	40	4
+Version_of	1	0; Developer_of	3	0
+Version_of	19	18; Developer_of	22	18
+Version_of	7	6; Citation_of	10	6
+
+Version_of	27	26; Developer_of	29	26
+Developer_of	13	6; Version_of	22	6; Version_of	26	25; Developer_of	35	25
+Version_of	6	5; Developer_of	8	5
+
+Version_of	7	4; Developer_of	9	4; Version_of	23	22; Developer_of	21	22; Developer_of	26	22; Release_of	14	4
+Developer_of	11	6; Version_of	9	6; Developer_of	18	16; Release_of	13	6; Release_of	22	16
+License_of	12	1; Version_of	15	12
+Version_of	1	0; Developer_of	3	0
+Version_of	4	0; Developer_of	6	0
+Developer_of	10	5; Version_of	8	5
+URL_of	9	4
+Abbreviation_of	13	6; Version_of	16	6
+
+Version_of	7	4; Version_of	10	9; Developer_of	12	9; Version_of	26	25; Developer_of	28	25; Specification_of	9	4
+Developer_of	6	7; Version_of	8	7; Version_of	11	10; Developer_of	13	7
+Version_of	10	9; License_of	9	0; URL_of	20	0
+Developer_of	7	5; Version_of	12	10; Developer_of	14	10
+Version_of	8	5; Developer_of	12	5
+Version_of	5	4
+Developer_of	0	6; Citation_of	7	6
+
+Developer_of	21	18; Version_of	19	18
+PlugIn_of	6	9; PlugIn_of	11	9
+
+Version_of	9	8; Citation_of	11	8
+
+Version_of	14	13; Citation_of	32	30; Citation_of	15	13
+Developer_of	8	5; Extension_of	6	5
+Version_of	2	0; Extension_of	1	0
+Developer_of	6	1; Citation_of	21	1
+PlugIn_of	0	27; URL_of	32	27
+PlugIn_of	13	16; Citation_of	24	13
+Developer_of	17	11; URL_of	20	11; Citation_of	22	11
+PlugIn_of	3	5; Citation_of	6	3
+Version_of	9	5; Developer_of	11	5; Version_of	17	16
+Developer_of	13	14; Version_of	15	14
+Version_of	8	5; Developer_of	10	5; Version_of	23	20; Developer_of	25	20
+Version_of	9	7; Developer_of	11	7
+Version_of	9	6; Developer_of	11	6; Release_of	16	6
+Version_of	8	1; Developer_of	10	1
+Version_of	9	6; Citation_of	10	6
+Version_of	6	4; Citation_of	7	4
+
+Version_of	7	4
+Version_of	7	5; Developer_of	9	10; Version_of	12	10
+AlternativeName_of	2	0
+Specification_of	25	17; Version_of	27	25
+Developer_of	4	5; Version_of	6	5; Developer_of	8	5
+Developer_of	21	22; Version_of	27	22; Developer_of	29	22
+Abbreviation_of	13	7; Version_of	19	7
+Citation_of	11	7; PlugIn_of	7	5
+Developer_of	14	15
+Version_of	15	7; Developer_of	17	7
+Version_of	7	5
+Version_of	10	7; Developer_of	12	7
+Version_of	8	7; Developer_of	11	7; Citation_of	22	20; PlugIn_of	20	7; Version_of	18	17; Extension_of	9	7
+License_of	10	0; URL_of	31	0
+Citation_of	14	16; Version_of	18	16
+Version_of	10	9; Developer_of	12	9
+Version_of	13	10; Citation_of	14	10
+Version_of	16	14; Citation_of	17	14
+Version_of	7	5; Developer_of	9	5
+Citation_of	10	5; Version_of	13	12; Citation_of	14	12
+Developer_of	6	7; Version_of	9	7
+Version_of	6	5; License_of	5	0
+Version_of	10	6; Developer_of	12	6
+Version_of	28	25; Developer_of	24	25
+Version_of	20	18; URL_of	22	18; Citation_of	38	31
+Version_of	73	72; Developer_of	75	72
+Version_of	21	19; Citation_of	22	19
+Version_of	12	11; Developer_of	14	11
+Developer_of	8	5; Version_of	11	5
+Developer_of	10	6; Version_of	8	6; Release_of	15	6
+Version_of	6	4; Developer_of	8	4
+Developer_of	7	8; Version_of	10	8; Developer_of	14	8; URL_of	22	14
+Version_of	10	5; Developer_of	12	5
+Developer_of	24	27; URL_of	42	27
+Version_of	13	10; Citation_of	14	10; PlugIn_of	18	10; Citation_of	20	18
+Version_of	7	4
+Version_of	10	9; Developer_of	12	9
+Specification_of	7	5; Version_of	13	7; Developer_of	19	7; Version_of	28	25; Developer_of	30	25
+URL_of	19	0; Citation_of	21	0; Developer_of	14	0
+Release_of	18	13; Release_of	21	13; Developer_of	24	13
+Version_of	6	5; PlugIn_of	9	5; URL_of	12	9
+URL_of	19	5; URL_of	27	5
+
+Version_of	3	2; Developer_of	5	2; Developer_of	12	13; Version_of	18	13; Version_of	14	13
+Developer_of	17	18; Version_of	19	18; Specification_of	22	18; Developer_of	21	22; Version_of	23	22
+Version_of	15	14; Citation_of	16	14; PlugIn_of	0	14
+Version_of	13	7; Developer_of	16	7; Extension_of	9	7
+Version_of	7	6; Developer_of	9	6
+
+Version_of	9	6; Version_of	15	12; Developer_of	5	6
+Version_of	21	20; Citation_of	22	20
+Abbreviation_of	48	44; Version_of	55	44; Developer_of	59	44
+Citation_of	58	56; PlugIn_of	53	56
+
+Version_of	6	5; URL_of	8	5
+PlugIn_of	7	6; Developer_of	11	7; Developer_of	11	6; Release_of	14	13; Specification_of	13	6
+Version_of	12	10; Developer_of	14	10
+
+Version_of	21	19; Developer_of	27	19; Developer_of	24	19; Developer_of	53	46
+Version_of	5	2; Specification_of	10	7; Version_of	13	7; Extension_of	12	10
+Developer_of	10	6; Version_of	8	6
+
+Developer_of	6	7; Release_of	8	7
+Version_of	1	0; Developer_of	5	0
+Version_of	17	13; Citation_of	19	13; Developer_of	22	23; URL_of	29	23; Version_of	14	13
+Abbreviation_of	24	20; Citation_of	26	20; Citation_of	42	38
+Specification_of	13	7; Version_of	18	13
+
+
+Version_of	6	4
+Developer_of	4	5; Developer_of	7	5
+Developer_of	10	6; Version_of	8	6
+Version_of	8	7; URL_of	10	7
+Version_of	10	7; Version_of	14	7; URL_of	19	7; Citation_of	21	7
+Version_of	9	6; Version_of	15	12
+Citation_of	1	0
+Version_of	9	6; Citation_of	10	6
+Version_of	23	22; Citation_of	25	22
+Version_of	7	6; Citation_of	10	6

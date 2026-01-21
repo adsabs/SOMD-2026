@@ -1,0 +1,9 @@
+Title: SOMD
+Description: This dataset is designed for testing machine learning models for named entity recognition and relation extraction. It includes a out of distribution test file (text only).
+File Descriptions
+
+Test Texts File (test_texts.txt)
+Format: TXT
+Description: Contains texts for testing the model. These texts do not include entity or relation annotations.
+Fields: text_content
+
