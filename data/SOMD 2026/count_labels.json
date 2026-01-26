@@ -1,0 +1,344 @@
+{
+    "subtask_1": {
+        "ProgrammingEnvironment_Deposition": {
+            "train": 0,
+            "test": 0
+        },
+        "OperatingSystem_Mention": {
+            "train": 30,
+            "test": 0
+        },
+        "Application_Deposition": {
+            "train": 87,
+            "test": 15
+        },
+        "Unknown_Deposition": {
+            "train": 0,
+            "test": 0
+        },
+        "Application_Mention": {
+            "train": 166,
+            "test": 27
+        },
+        "SoftwareCoreference_Deposition": {
+            "train": 0,
+            "test": 0
+        },
+        "PlugIn_Usage": {
+            "train": 216,
+            "test": 59
+        },
+        "Unknown_Mention": {
+            "train": 0,
+            "test": 0
+        },
+        "OperatingSystem_Usage": {
+            "train": 119,
+            "test": 24
+        },
+        "ProgrammingEnvironment_Unknown": {
+            "train": 0,
+            "test": 0
+        },
+        "Application_Creation": {
+            "train": 166,
+            "test": 31
+        },
+        "Application_Usage": {
+            "train": 1745,
+            "test": 461
+        },
+        "ProgrammingEnvironment_Usage": {
+            "train": 287,
+            "test": 87
+        },
+        "ProgrammingEnvironment_Mention": {
+            "train": 40,
+            "test": 7
+        },
+        "Unknown_Unknown": {
+            "train": 0,
+            "test": 0
+        },
+        "SoftwareCoreference_Unknown": {
+            "train": 0,
+            "test": 0
+        },
+        "PlugIn_Deposition": {
+            "train": 21,
+            "test": 8
+        },
+        "Unknown_Usage": {
+            "train": 0,
+            "test": 0
+        },
+        "OperatingSystem_Unknown": {
+            "train": 0,
+            "test": 0
+        },
+        "PlugIn_Mention": {
+            "train": 40,
+            "test": 11
+        },
+        "SoftwareCoreference_Usage": {
+            "train": 0,
+            "test": 0
+        },
+        "Unknown_Creation": {
+            "train": 0,
+            "test": 0
+        },
+        "Application_Unknown": {
+            "train": 0,
+            "test": 0
+        },
+        "SoftwareCoreference_Mention": {
+            "train": 0,
+            "test": 0
+        },
+        "OperatingSystem_Deposition": {
+            "train": 0,
+            "test": 0
+        },
+        "SoftwareCoreference_Creation": {
+            "train": 0,
+            "test": 0
+        },
+        "PlugIn_Creation": {
+            "train": 57,
+            "test": 13
+        },
+        "PlugIn_Unknown": {
+            "train": 0,
+            "test": 0
+        }
+    },
+    "subtask_2": {
+        "ProgrammingEnvironment_Deposition": {
+            "train": 0,
+            "test": 0
+        },
+        "OperatingSystem_Mention": {
+            "train": 26,
+            "test": 74
+        },
+        "Application_Deposition": {
+            "train": 69,
+            "test": 168
+        },
+        "Unknown_Deposition": {
+            "train": 0,
+            "test": 1
+        },
+        "Application_Mention": {
+            "train": 189,
+            "test": 3808
+        },
+        "SoftwareCoreference_Deposition": {
+            "train": 0,
+            "test": 108
+        },
+        "PlugIn_Usage": {
+            "train": 185,
+            "test": 634
+        },
+        "Unknown_Mention": {
+            "train": 0,
+            "test": 24
+        },
+        "OperatingSystem_Usage": {
+            "train": 118,
+            "test": 201
+        },
+        "ProgrammingEnvironment_Unknown": {
+            "train": 0,
+            "test": 1
+        },
+        "Application_Creation": {
+            "train": 169,
+            "test": 546
+        },
+        "Application_Usage": {
+            "train": 1715,
+            "test": 5327
+        },
+        "ProgrammingEnvironment_Usage": {
+            "train": 292,
+            "test": 897
+        },
+        "ProgrammingEnvironment_Mention": {
+            "train": 35,
+            "test": 156
+        },
+        "Unknown_Unknown": {
+            "train": 0,
+            "test": 36
+        },
+        "SoftwareCoreference_Unknown": {
+            "train": 0,
+            "test": 5
+        },
+        "PlugIn_Deposition": {
+            "train": 12,
+            "test": 19
+        },
+        "Unknown_Usage": {
+            "train": 0,
+            "test": 18
+        },
+        "OperatingSystem_Unknown": {
+            "train": 0,
+            "test": 2
+        },
+        "PlugIn_Mention": {
+            "train": 23,
+            "test": 314
+        },
+        "SoftwareCoreference_Usage": {
+            "train": 0,
+            "test": 0
+        },
+        "Unknown_Creation": {
+            "train": 0,
+            "test": 1
+        },
+        "Application_Unknown": {
+            "train": 1,
+            "test": 70
+        },
+        "SoftwareCoreference_Mention": {
+            "train": 0,
+            "test": 1
+        },
+        "OperatingSystem_Deposition": {
+            "train": 0,
+            "test": 0
+        },
+        "SoftwareCoreference_Creation": {
+            "train": 0,
+            "test": 0
+        },
+        "PlugIn_Creation": {
+            "train": 26,
+            "test": 94
+        },
+        "PlugIn_Unknown": {
+            "train": 0,
+            "test": 11
+        }
+    },
+    "subtask_3": {
+        "ProgrammingEnvironment_Deposition": {
+            "train": 0,
+            "test": 2
+        },
+        "OperatingSystem_Mention": {
+            "train": 26,
+            "test": 683
+        },
+        "Application_Deposition": {
+            "train": 69,
+            "test": 1356
+        },
+        "Unknown_Deposition": {
+            "train": 0,
+            "test": 6
+        },
+        "Application_Mention": {
+            "train": 189,
+            "test": 31743
+        },
+        "SoftwareCoreference_Deposition": {
+            "train": 0,
+            "test": 598
+        },
+        "PlugIn_Usage": {
+            "train": 185,
+            "test": 11947
+        },
+        "Unknown_Mention": {
+            "train": 0,
+            "test": 260
+        },
+        "OperatingSystem_Usage": {
+            "train": 118,
+            "test": 3614
+        },
+        "ProgrammingEnvironment_Unknown": {
+            "train": 0,
+            "test": 17
+        },
+        "Application_Creation": {
+            "train": 169,
+            "test": 4378
+        },
+        "Application_Usage": {
+            "train": 1715,
+            "test": 144399
+        },
+        "ProgrammingEnvironment_Usage": {
+            "train": 292,
+            "test": 15258
+        },
+        "ProgrammingEnvironment_Mention": {
+            "train": 35,
+            "test": 1001
+        },
+        "Unknown_Unknown": {
+            "train": 0,
+            "test": 728
+        },
+        "SoftwareCoreference_Unknown": {
+            "train": 0,
+            "test": 21
+        },
+        "PlugIn_Deposition": {
+            "train": 12,
+            "test": 109
+        },
+        "Unknown_Usage": {
+            "train": 0,
+            "test": 548
+        },
+        "OperatingSystem_Unknown": {
+            "train": 0,
+            "test": 12
+        },
+        "PlugIn_Mention": {
+            "train": 23,
+            "test": 1335
+        },
+        "SoftwareCoreference_Usage": {
+            "train": 0,
+            "test": 2
+        },
+        "Unknown_Creation": {
+            "train": 0,
+            "test": 15
+        },
+        "Application_Unknown": {
+            "train": 1,
+            "test": 1301
+        },
+        "SoftwareCoreference_Mention": {
+            "train": 0,
+            "test": 11
+        },
+        "OperatingSystem_Deposition": {
+            "train": 0,
+            "test": 1
+        },
+        "SoftwareCoreference_Creation": {
+            "train": 0,
+            "test": 1
+        },
+        "PlugIn_Creation": {
+            "train": 26,
+            "test": 515
+        },
+        "PlugIn_Unknown": {
+            "train": 0,
+            "test": 89
+        }
+    }
+}
