@@ -2,7 +2,7 @@
 Work by Felix Grezes and Atilla Alkan on [SOMD 2026](https://nfdi4ds.github.io/nslp2026/docs/somd_shared_task.html)
 
 
-# SOMD 2026 — Inference Time Measurement
+# Main Notebook For [Predictions + Inference Time (inference_time.ipynb)](https://github.com/adsabs/SOMD-2026/blob/main/notebooks/inference_time.ipynb)
 
 This notebook benchmarks the inference time of the two systems submitted to the **SOMD 2026 Shared Task** (cross-document software mention coreference resolution):
 
@@ -17,16 +17,16 @@ Both systems are evaluated on the **Subtask 1** test set (743 mentions, 244 docu
 
 ```
 .
-├── inference_time.ipynb        ← Main benchmark notebook
+├── SOMD-2026/notebooks/inference_time.ipynb        ← Main notebook location
 ├── data/
 │   └── SOMD 2026/
 │       └── subtask 1/
-│           └── test_data.jsonl ← Test set (mentions with context)
+│           └── test_data.jsonl ← Official Test set (mentions with context)
 └── predictions/
     ├── fuzzy_matching/
-    │   └── pred_clusters_subtask 1.json
+    │   └── pred_clusters_subtask 1.json    ← Location of the predicted clusters
     └── car/
-        └── pred_clusters_subtask 1.json
+        └── pred_clusters_subtask 1.json    ← Location of the predicted clusters
 ```
 
 ---
